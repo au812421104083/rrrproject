@@ -14,7 +14,7 @@
     action. To be effective, a plan should be specific, logical, flexible and complete in 
     all aspects and should assist in controlling future eventsAn event is something that happens, especially when it is unusual or important. Events can be conferences, seminars, trade shows, workshops, corporate meetings, or product or service launches. </p>
 
-    <img src="img/event1.png">
+    <img src="event1.png">
     <h1>photo gallery</h1>
     <h2>free foods/peds not allowed in event</h2>
 </center>
