@@ -1,59 +1,41 @@
-# HTML Project Tutorial - Event Page, Tables, and Forms
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>events</title>
+        <link rel="icon" href="img/date.png">
 
-Welcome to the HTML Project Tutorial repository! This repository contains the starter and final code for two complete projects that will be covered in a YouTube tutorial series. The tutorial series aims to provide comprehensive knowledge about HTML and guide you through building two exciting projects: an Event Page and a project focused on Tables and Forms.
+    </head>
+    
+<body bgcolor=" darkred" style="color:white;">
+    <center>
+<h1>upcoming events 📝</h1>
+<p> don't miss any of your important events.stay alert register must </p>
+<hr>
+<p>Planning is the foremost function in sports as it gives a view of future course of 
+    action. To be effective, a plan should be specific, logical, flexible and complete in 
+    all aspects and should assist in controlling future eventsAn event is something that happens, especially when it is unusual or important. Events can be conferences, seminars, trade shows, workshops, corporate meetings, or product or service launches. </p>
 
-## Project 1: Event Page
-
-In the first project, we will build an Event Page that will cover a wide range of fundamental HTML components. Throughout this project, you will learn how to use the following HTML elements:
-
-- Heading Tags: `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>`, `<h6>`
-- Paragraph Tags: `<p>`
-- Anchor Tags: `<a>`
-- Body Tag: `<body>`
-- HTML Boilerplate: `<html>`
-- Image Tag: `<img>`
-
-By the end of this project, you will have a clear understanding of how to structure basic HTML elements and create an appealing Event Page.
-
-## Project 2: Tables and Forms
-
-In the second project, we will dive deeper into HTML by focusing on two important components: Tables and Forms. Tables are used to present data in a structured format, while forms are essential for user input and data submission. Throughout this project, you will learn to use the following HTML elements:
-
-- Table Tag: `<table>`
-- Table Row Tag: `<tr>`
-- Table Header Cell Tag: `<th>`
-- Table Data Cell Tag: `<td>`
-- Form Tag: `<form>`
-- Input Tags: `<input>` (various types), `<textarea>`, `<select>`, `<option>`, `<label>`, `<button>`
-
-By the end of this project, you will be proficient in creating tables and forms, and you'll understand how to collect user input and process it.
-
-## How to Use this Repository
-
-This repository is organized into two main directories: `Event_Page_Project` and `Tables_Forms_Project`. Each directory contains a `starter` folder, which includes the initial code for the respective projects, and a `final` folder with the completed code.
-
-To get started with a specific project, follow these steps:
-
-1. Clone this repository to your local machine using the following command:
-
-   ```
-   git clone https://github.com/your-username/html-project-tutorial.git
-   ```
-
-2. Navigate to the project folder of your choice, either `Event_Page_Project` or `Tables_Forms_Project`.
-
-3. Inside each project folder, you will find a `starter` and a `final` folder. Open the `starter` folder in your preferred code editor to access the initial code.
-
-4. Follow along with the YouTube tutorial series to build the projects step-by-step. You can use the `starter` code as a starting point and make changes as guided in the tutorial.
-
-5. If you encounter any issues or have questions during the tutorial, feel free to open an issue in this repository. We encourage collaboration and learning together!
-
-## Contributing
-
-If you find any bugs, have suggestions for improvements, or want to add more features to the projects, we welcome your contributions! Simply fork this repository, make your changes, and submit a pull request.
-
-## About the Author
-
-This tutorial series is created and presented by [Agnel John](https://www.youtube.com/@ErrorMakesClever), a passionate web developer with a goal to share knowledge and help others learn HTML effectively.
-
-Enjoy the journey of learning HTML and building exciting projects with us! Happy coding! 🚀🎉
+    <img src="img/event1.png" width="500px">
+    <h1>photo gallery</h1>
+    <h2>free foods/peds not allowed in event</h2>
+</center>
+<center>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab quidem adipisci expedita quisquam ratione illo eaque aut rem earum illum, ducimus, sunt error facilis possimus similique fuga fugit magni praesentium assumenda ullam unde molestiae rerum dicta. Hic cupiditate aspernatur saepe eos veritatis fugit perferendis neque, facilis quas ipsa labore qui quos sapiente enim nihil rem, voluptatibus aperiam eum, inventore tenetur omnis blanditiis! Temporibus, nemo corporis porro id nihil sed quod, omnis eaque quisquam deserunt voluptate recusandae ipsam sapiente consequatur laudantium unde nisi explicabo tempore. Impedit totam sint distinctio ad quidem assumenda doloremque facilis, voluptatem omnis, cupiditate voluptatum ex sed eligendi.
+    </p>
+    <img src="img/event2.png">
+    <h1>
+    <a href="https://www.amazon.in/b?ie=UTF8&node=7459780031">fasion store</a> <br>
+</h1>
+<h2>free foods/peds not allowed in event</h2>
+<p>Planning is the foremost function in sports as it gives a view of future course of 
+    action. To be effective, a plan should be specific, logical, flexible and complete in 
+    all aspects and should assist in controlling future eventsAn event is something that happens, especially when it is unusual or important. Events can be conferences, seminars, trade shows, workshops, corporate meetings, or product or service launches. </p>
+</p> <hr>
+</center>
+<center>
+<h1>contact</h1>
+<h2>+919363163392/ramajayam58@gmail.com</h2>
+<h3>Gundur M.I.E.T/Trichy-7</h3>
+</center>
+</body>
+</html>
