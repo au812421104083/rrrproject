@@ -6,7 +6,7 @@
     </head>
     
 <body bgcolor="red" style="color:white;">
-    <center>
+<center>
 <h1>upcoming events 📝</h1>
 <p> don't miss any of your important events.stay alert register must </p>
 <hr>
