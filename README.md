@@ -3,10 +3,9 @@
     <head>
         <title>events</title>
         <link rel="icon" href="img/date.png">
-
     </head>
     
-<body bgcolor=" darkred" style="color:white;">
+<body bgcolor="red" style="color:white;">
     <center>
 <h1>upcoming events 📝</h1>
 <p> don't miss any of your important events.stay alert register must </p>
@@ -15,7 +14,7 @@
     action. To be effective, a plan should be specific, logical, flexible and complete in 
     all aspects and should assist in controlling future eventsAn event is something that happens, especially when it is unusual or important. Events can be conferences, seminars, trade shows, workshops, corporate meetings, or product or service launches. </p>
 
-    <img src="img/event1.png" width="500px">
+    <img src="img/event1.png">
     <h1>photo gallery</h1>
     <h2>free foods/peds not allowed in event</h2>
 </center>
